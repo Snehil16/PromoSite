@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;1,600&display=swap');
+
+body {
+  padding-bottom: 10px;
+}
+
+.Oleo{
+  font-family: 'Oleo Script', cursive;
+  -webkit-text-stroke: 1.5px white
+}
+
+p{
+  font-family: 'Cormorant Garamond', serif;
+  color: red;
+  line-height: 3;
+  max-width: 50%;
+  font-size: 18px
+}
+img{
+  width: 100%;
+  max-height: 270px;
+}
+
+#agent-list {
+  width: 40%;
+  height: auto;
+  position: absolute;
+  left: 55%;
+  top: 77.5%;
+}
+
+video {
+  position: absolute;
+  top: 42.5%;
+  left: 62.5%;
+}
+
+.maps-img {
+  width: 40%;
+  height: auto;
+  position: absolute;
+  left: 55%;
+  top: 115.5%;
+}
+
+#maps{
+  padding: 2px;
+  text-shadow: 1px 1px 0 #555;
+}
+
+body {
+  background-color: black;
+}
+
+span{
+  color: red
+}
